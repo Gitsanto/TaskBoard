@@ -1,0 +1,8 @@
+<overlay id="sample"
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+    <statusbar id="status-bar">
+        <button label="Press Me" oncommand="MyCommand(this)"/>
+    </statusbar>
+
+    <script type="application/x-javascript" src="my.js" />
+</overlay>
