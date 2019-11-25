@@ -1,0 +1,2 @@
+content my-addon chrome/content/
+overlay chrome://messenger/content/messenger.xul chrome://my-addon/content/my.xul
